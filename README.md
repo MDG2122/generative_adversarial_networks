@@ -2,7 +2,7 @@ Academic Project-Universidad Metropolitana.
 
 Link to Project in Kaggle: https://www.kaggle.com/code/mariocatapano/proyecto-2-gan
 
-Creating pictures of dogs using a Generative Adversarial Network (GAN)
+Objective: Creating pictures of dogs using Generative Adversarial Networks (GANs)
 
 Dataset: Stanford Dogs Dataset. Link: https://www.kaggle.com/datasets/jessicali9530/stanford-dogs-dataset
 
